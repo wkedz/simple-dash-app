@@ -29,3 +29,7 @@ Flask Home Page: http://127.0.0.1:8050/
 
 Dash Dashboard: http://127.0.0.1:8050/dash_app/
 ```
+
+## Dash examples 
+
+https://dash-example-index.herokuapp.com/
